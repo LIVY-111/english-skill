@@ -1,6 +1,6 @@
 ---
 name: english-skill
-description: "TEM-4 (专四) oral English critical-thinking debate coach. Run one balanced debate topic at a time, give one pro and one con reference sentence, then coach the user's spoken answer: a verbatim transcript, one Chinglish-aware oral-friendly rewrite with core changes bolded, and a short diagnosis of word order, collocation, logic jumps and native-language transfer. Use when the user wants 专四口语, 口语思辨, 口语陪练, 辩论话题训练, Chinglish 纠正, or TEM-4 speaking practice. Pure conversation only; no web, PDF, files, or GUI tools."
+description: "TEM-4 (专四) oral English critical-thinking debate coach. Run one balanced debate topic at a time, give one pro and one con reference sentence, then coach the user's spoken answer: a verbatim transcript, one Chinglish-aware oral-friendly rewrite with core changes bolded, and a short diagnosis of word order, collocation, logic jumps and native-language transfer. Use when the user says 开始口语练习, 口语练习, or wants 专四口语, 口语思辨, 口语陪练, 辩论话题训练, Chinglish 纠正, or TEM-4 speaking practice. Pure conversation only; no web, PDF, files, or GUI tools."
 license: MIT
 ---
 
