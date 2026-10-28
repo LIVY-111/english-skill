@@ -1,0 +1,4 @@
+interface:
+  display_name: "English Skill: TEM-4 Oral Debate Coach"
+  short_description: "TEM-4 oral critical-thinking practice with Chinglish feedback"
+  default_prompt: "Use $english-skill to start a TEM-4 oral debate topic and coach my spoken answer."
